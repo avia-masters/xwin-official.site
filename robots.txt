@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xwin-official.site/sitemap.xml
